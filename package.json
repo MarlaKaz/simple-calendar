@@ -1,0 +1,26 @@
+{
+  "name": "calendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script2.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon script2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/portexe/VanillaCalendar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/portexe/VanillaCalendar/issues"
+  },
+  "homepage": "https://github.com/portexe/VanillaCalendar#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jquery": "^3.6.0",
+    "nodemon": "^2.0.15"
+  }
+}
